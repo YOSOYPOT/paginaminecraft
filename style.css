@@ -1,0 +1,21 @@
+#body {
+    background-image: url("minecraft.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#lienzo {
+    background-color: white;
+    background-size: cover;
+    border-style: ridge;
+    text-align: center;
+}
+
+#ancho,#alto {
+    font-size: 100px;
+    font-weight: 600;
+}
+
+#controles {
+    width: 900px;
+}
